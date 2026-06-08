@@ -8,6 +8,9 @@ I build production-grade AI systems that turn unstructured business documents in
 
 📍 Charlotte, NC  ·  🌐 English & العربية (RTL-native)  ·  📫 manfo_4@yahoo.com
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--ab.github.io-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammed-ab.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/)
+
 </div>
 
 ---
@@ -60,7 +63,7 @@ Bilingual (English / Arabic) product builder with real-world operations experien
 
 - 📧 **Email** — manfo_4@yahoo.com
 - 📍 **Location** — Charlotte, NC
-- 💼 **LinkedIn** — <!-- TODO: add your LinkedIn URL -->
-- 🌐 **Portfolio** — <!-- TODO: add current portfolio URL -->
+- 💼 **LinkedIn** — [mohammed-abumtary](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/)
+- 🌐 **Portfolio** — [mohammed-ab.github.io](https://mohammed-ab.github.io)
 
 <div align="center"><sub>Building AI that ships software, not just text.</sub></div>
