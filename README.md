@@ -1,50 +1,47 @@
 # Mohammed Abumtary
 
-**AI Product Engineer · Full-Stack Developer · AI Agents & Workflow Automation**
+**AI Product Engineer · Full-Stack Developer**
 
-I build applications that put AI to work: agent-powered app builders, mobile team workspaces, document-processing systems, creative tools, and business automation.
+I build AI applications across the full stack: agent runtimes, interfaces, APIs, databases, background jobs and the checks that keep them working.
 
-My portfolio includes **Bani, Maktab/Jiveo, Itlaq, Canvas House, ProcessFlow AI, plan2mock, CarouselForge, and AI Academy PRO**. I work across TypeScript, React, React Native, Python, APIs, and databases, with English/Arabic product experience.
+My work includes an AI app builder, bilingual creative software, an iOS team workspace and document-to-workflow systems. I use Claude Code and Codex daily for implementation, debugging and testing. I take responsibility for the architecture, review and result.
 
-I use Claude Code and Codex throughout development. My focus is the complete engineering workflow: clarify the problem, implement, inspect failures, test, and iterate.
+**Charlotte, North Carolina · Open to remote roles**
 
-**Charlotte, NC · Open to remote AI product and software engineering roles**
+[Portfolio](https://mohammed-ab.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/) · [Email](mailto:manfo_6@yahoo.com)
 
-[Portfolio](https://mohammed-ab.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/) · [Email](mailto:manfo_4@yahoo.com)
+## Selected engineering work
 
-## Selected products
+| Project | What I built | A useful technical conversation |
+| --- | --- | --- |
+| **Itlaq** | An Arabic/English creative platform with media generation, private assets, background workers, subscriptions and a credit ledger. | Concurrent credit reservations, retryable database failures, uncertain provider outcomes and reconciliation. |
+| **Bani** | An app builder with a Claude tool-use loop, project runtimes, live previews and persisted conversations. | Tool execution, attachment limits, cancellation and recovery after a failed turn. |
+| **Canvas House** | Image/video workflows and a creative assistant with budget, review and asset-ownership controls. | Provider integration, approval boundaries and the lifecycle of generated media. |
+| **Maktab / Jiveo** | A React Native / Expo team workspace backed by Supabase. | Mobile collaboration, navigation, data flow and bilingual product design. |
+| **ProcessFlow AI** | A requirements-to-workflow and application-generation platform. | Document analysis, intermediate artifacts, validation and English/Arabic interfaces. |
+| **plan2mock** | A Python / FastAPI pipeline for vector-PDF elevations, optional image generation and geometry comparison. | Keeping deterministic preparation separate from generation, detecting structural drift and explaining verifier limitations. |
+| **CarouselForge** | A structured content-to-slide pipeline with editable Arabic layouts and packaged exports. | Repeatable rendering, RTL layout and separation of local work from paid generation. |
+| **AI Academy PRO** | An Arabic-first learning PWA with browser-based coding activities. | Learning flows, backend integration and English/Arabic support. |
 
-| Product | Engineering focus |
-|---|---|
-| **Bani** | A Claude tool-use loop, project runtimes, live previews, persisted transcripts, attachment handling, and local/E2B adapters. |
-| **Maktab / Jiveo** | An iOS team workspace built with React Native, Expo, and Supabase, with collaboration workflows and iterative mobile interface design. |
-| **Itlaq** | Creative SaaS with quote-bound credit reservations, payment-event handling, private media, durable jobs, and uncertain-request recovery. |
-| **Canvas House** | An image/video application with provider integrations, source-workflow compilation, account-owned assets, and a tool-using creative assistant with budget and review controls. |
-| **ProcessFlow AI** | Requirements analysis, workflow modeling, software generation, artifact validation, and English/Arabic interfaces. |
-| **plan2mock** | Vector-PDF elevation processing, local drawings, optional AI rendering, geometry comparison, revision editing, and a Python CLI/FastAPI service. |
-| **CarouselForge** | Structured specifications to editable Arabic layouts, rendered slides, captions, PDFs, and ZIP packages. |
-| **AI Academy PRO** | An Arabic-first learning PWA with browser-based coding activities and English/Arabic support. |
+My independent products are at different stages of development and release. Several have private source, and I can discuss their design and selected implementation details without publishing the repositories. Itlaq and Canvas House share some foundations.
 
-Some products have private source. A product walkthrough and selected implementation details can be shared where appropriate.
+## Public code to explore
 
-## Public code
+- **[BPMN Workflow Extractor](https://github.com/Mohammed-AB/bpmn-workflow-extractor)** — document ingestion, a three-pass LLM pipeline, structured validation and workflow visualization.
+- **[Togetherly](https://github.com/Mohammed-AB/togetherly)** — React, TypeScript and Supabase collaboration workflows.
+- **[AI Layer Designer](https://github.com/Mohammed-AB/ai-layer-designer)** — layered image-generation and editing workflows.
+- **[Personal Shopping Concierge](https://github.com/Mohammed-AB/personal-shopping-concierge)** — a shopping experience with stylist chat and administration.
 
-- [BPMN Workflow Extractor](https://github.com/Mohammed-AB/bpmn-workflow-extractor) - document ingestion, a three-pass LLM pipeline, schema validation, and workflow visualization.
-- [Togetherly](https://github.com/Mohammed-AB/togetherly) - a team collaboration application using React, TypeScript, and Supabase.
-- [AI Layer Designer](https://github.com/Mohammed-AB/ai-layer-designer) - layered AI-image generation and editable design output.
-- [Personal Shopping Concierge](https://github.com/Mohammed-AB/personal-shopping-concierge) - a streetwear shopping application with stylist chat and an administrative interface.
-- [ML Trading Lab](https://github.com/Mohammed-AB/ml-trading-lab) - an educational engineering project exploring model evaluation and a guarded LLM decision layer; not a claim of trading profitability.
+My trading repositories are educational experiments in data pipelines, backtesting and model evaluation; they do not establish trading profitability.
 
-## Technical interests
+## How I work
 
-- Tool-using agents and application runtimes
-- Document processing, structured outputs, and workflow automation
-- Evaluation design, error analysis, and practical reliability
-- Mobile collaboration and full-stack product development
-- Arabic interfaces, RTL layouts, and bilingual user experiences
+I start with a concrete user workflow and explicit acceptance criteria. I split large changes into manageable tasks, review generated code, reproduce failures and check the result across the interface and backend. When a system can spend money or modify someone’s work, I pay particular attention to permissions, accounting and recovery.
+
+**Tools:** TypeScript, JavaScript, Python, React, React Native, Next.js, Node.js, FastAPI, PostgreSQL, SQLite, Supabase, Docker, Git, Claude Code and Codex.
 
 ## Background
 
-I work at Governance House, created ProcessFlow AI, and build independent software products. I also bring hands-on retail operations experience from Designers Closet and prior software-development teaching experience.
+I work at Governance House, where I developed a ProcessFlow prototype, and build independent software products. My background also includes freelance development, software-development teaching and retail operations. I build in English and Arabic, including right-to-left interfaces.
 
-I'm interested in remote roles where I can own a product problem, work closely with users, and build useful AI-enabled software.
+I am interested in remote product-engineering roles where I can turn an ambiguous problem into a working application and keep improving it through feedback.
