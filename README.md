@@ -1,69 +1,50 @@
-<div align="center">
+# Mohammed Abumtary
 
-# Hi, I'm Mohammed Abumtary 👋
+**AI Product Engineer · Full-Stack Developer · AI Agents & Workflow Automation**
 
-### AI Product Builder · Enterprise Workflow Automation · Full-Stack Developer
+I build applications that put AI to work: agent-powered app builders, mobile team workspaces, document-processing systems, creative tools, and business automation.
 
-I build production-grade AI systems that turn unstructured business documents into **executable software** — structured requirements, BPMN 2.0 workflows, and complete deployable applications, generated end-to-end.
+My portfolio includes **Bani, Maktab/Jiveo, Itlaq, Canvas House, ProcessFlow AI, plan2mock, CarouselForge, and AI Academy PRO**. I work across TypeScript, React, React Native, Python, APIs, and databases, with English/Arabic product experience.
 
-📍 Charlotte, NC  ·  🌐 English & العربية (RTL-native)  ·  📫 manfo_4@yahoo.com
+I use Claude Code and Codex throughout development. My focus is the complete engineering workflow: clarify the problem, implement, inspect failures, test, and iterate.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--ab.github.io-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohammed-ab.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/)
+**Charlotte, NC · Open to remote AI product and software engineering roles**
 
-</div>
+[Portfolio](https://mohammed-ab.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/) · [Email](mailto:manfo_4@yahoo.com)
 
----
+## Selected products
 
-## 🚀 Featured — ProcessFlow AI
+| Product | Engineering focus |
+|---|---|
+| **Bani** | A Claude tool-use loop, project runtimes, live previews, persisted transcripts, attachment handling, and local/E2B adapters. |
+| **Maktab / Jiveo** | An iOS team workspace built with React Native, Expo, and Supabase, with collaboration workflows and iterative mobile interface design. |
+| **Itlaq** | Creative SaaS with quote-bound credit reservations, payment-event handling, private media, durable jobs, and uncertain-request recovery. |
+| **Canvas House** | An image/video application with provider integrations, source-workflow compilation, account-owned assets, and a tool-using creative assistant with budget and review controls. |
+| **ProcessFlow AI** | Requirements analysis, workflow modeling, software generation, artifact validation, and English/Arabic interfaces. |
+| **plan2mock** | Vector-PDF elevation processing, local drawings, optional AI rendering, geometry comparison, revision editing, and a Python CLI/FastAPI service. |
+| **CarouselForge** | Structured specifications to editable Arabic layouts, rendered slides, captions, PDFs, and ZIP packages. |
+| **AI Academy PRO** | An Arabic-first learning PWA with browser-based coding activities and English/Arabic support. |
 
-> **An enterprise platform that reads your requirements and writes the software.**
-> Upload an SRS document and get structured requirements, RACI matrices, test cases, executable **BPMN 2.0** for both **Camunda *and* jBPM**, and a complete, deployable full-stack app — fully automated through an **8-pass AI pipeline**.
+Some products have private source. A product walkthrough and selected implementation details can be shared where appropriate.
 
-- 🧠 **8-pass AI code-generation pipeline** — a single document upload produces a PostgreSQL/Prisma schema, a Hono/TypeScript API, an 80+ page React/Tailwind frontend, Docker deploy files, a TypeScript workflow engine, integration tests, and a QA validation report.
-- ⚙️ **Dual-engine BPMN 2.0** — executable BPMN for **Camunda** (`camunda:formKey`, timer boundary events with ISO-8601 SLA enforcement, retry policies, full gateway logic, visual layout) **and jBPM/KIE** (`.bpmn2` with drools extensions, `WorkItemHandler` Java classes, `kjar`/Maven packaging, one-command deploy).
-- 📤 **20+ export formats** per document — BPMN XML, SVG, Mermaid, PlantUML, CMMN, DMN, ReqIF, OWL/RDF, DOCX, PPTX, XLSX, PDF, CSV.
-- 🛡️ **Compliance engine** — ISO-27001, GDPR, HIPAA, SOC2, PCI-DSS, ISO-9001 with likelihood × impact risk scoring and mitigation tracking.
-- 🌍 **Bilingual by default** — EN/AR with automatic RTL across 29 pages and 687+ synchronized translation keys.
+## Public code
 
-**Stack:** React 18 · Vite · Tailwind · shadcn/ui · Hono · Bun · TypeScript · Prisma · PostgreSQL · Better Auth · Anthropic Claude SDK
+- [BPMN Workflow Extractor](https://github.com/Mohammed-AB/bpmn-workflow-extractor) - document ingestion, a three-pass LLM pipeline, schema validation, and workflow visualization.
+- [Togetherly](https://github.com/Mohammed-AB/togetherly) - a team collaboration application using React, TypeScript, and Supabase.
+- [AI Layer Designer](https://github.com/Mohammed-AB/ai-layer-designer) - layered AI-image generation and editable design output.
+- [Personal Shopping Concierge](https://github.com/Mohammed-AB/personal-shopping-concierge) - a streetwear shopping application with stylist chat and an administrative interface.
+- [ML Trading Lab](https://github.com/Mohammed-AB/ml-trading-lab) - an educational engineering project exploring model evaluation and a guarded LLM decision layer; not a claim of trading profitability.
 
-<!-- TODO: swap these in once the repo/demo are live -->
-🔗 **Live demo:** _coming soon_  ·  📂 **Repo:** _coming soon_
+## Technical interests
 
----
+- Tool-using agents and application runtimes
+- Document processing, structured outputs, and workflow automation
+- Evaluation design, error analysis, and practical reliability
+- Mobile collaboration and full-stack product development
+- Arabic interfaces, RTL layouts, and bilingual user experiences
 
-## 🛠️ Tech I build with
+## Background
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bun](https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN_2.0-Camunda_·_jBPM-FC5D0D?style=for-the-badge)
+I work at Governance House, created ProcessFlow AI, and build independent software products. I also bring hands-on retail operations experience from Designers Closet and prior software-development teaching experience.
 
----
-
-## 💡 Also building
-
-- **AI content automation** — short-form video pipelines with HeyGen & Higgsfield, programmatic editing, and multi-platform publishing.
-- **Full-stack freelance** — React / React Native / Node / Python apps taken from business requirements to deployed product.
-
-## 🧭 Beyond code
-
-Bilingual (English / Arabic) product builder with real-world operations experience — retail tech, process engineering, and data-informed decision-making. Spoken-word writer, martial-arts student, community volunteer.
-
-## 📫 Let's connect
-
-- 📧 **Email** — manfo_4@yahoo.com
-- 📍 **Location** — Charlotte, NC
-- 💼 **LinkedIn** — [mohammed-abumtary](https://www.linkedin.com/in/mohammed-abumtary-079ba314b/)
-- 🌐 **Portfolio** — [mohammed-ab.github.io](https://mohammed-ab.github.io)
-
-<div align="center"><sub>Building AI that ships software, not just text.</sub></div>
+I'm interested in remote roles where I can own a product problem, work closely with users, and build useful AI-enabled software.
