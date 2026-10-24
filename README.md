@@ -28,9 +28,9 @@ My independent products are at different stages of development and release. Seve
 ## Public code to explore
 
 - **[BPMN Workflow Extractor](https://github.com/Mohammed-AB/bpmn-workflow-extractor)** — document ingestion, a three-pass LLM pipeline, structured validation and workflow visualization.
-- **[Togetherly](https://github.com/Mohammed-AB/togetherly)** — React, TypeScript and Supabase collaboration workflows.
 - **[AI Layer Designer](https://github.com/Mohammed-AB/ai-layer-designer)** — layered image-generation and editing workflows.
-- **[Personal Shopping Concierge](https://github.com/Mohammed-AB/personal-shopping-concierge)** — a shopping experience with stylist chat and administration.
+
+**Private prototypes:** Togetherly (team collaboration) and Personal Shopping Concierge (stylist chat and administration). Their source stays private while backend access controls and provisioning are completed. Selected offline walkthroughs can be discussed on request.
 
 My trading repositories are educational experiments in data pipelines, backtesting and model evaluation; they do not establish trading profitability.
 
